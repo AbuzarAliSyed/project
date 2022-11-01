@@ -1,0 +1,17 @@
+group\example\KanbanHiringPortal\Repository\CommentRepository.class
+group\example\KanbanHiringPortal\Repository\CandidateRepository.class
+group\example\KanbanHiringPortal\model\Image.class
+group\example\KanbanHiringPortal\model\search.class
+group\example\KanbanHiringPortal\model\customTag.class
+group\example\KanbanHiringPortal\Repository\UserRepository.class
+group\example\KanbanHiringPortal\model\Candidate.class
+group\example\KanbanHiringPortal\services\KanbanServices.class
+group\example\KanbanHiringPortal\Repository\ImageRepository.class
+group\example\KanbanHiringPortal\model\comment.class
+group\example\KanbanHiringPortal\model\ImageUploadResponse.class
+group\example\KanbanHiringPortal\model\status.class
+group\example\KanbanHiringPortal\model\Image$ImageBuilder.class
+group\example\KanbanHiringPortal\util\ImageUtility.class
+group\example\KanbanHiringPortal\PortalController.class
+group\example\KanbanHiringPortal\model\User.class
+group\example\KanbanHiringPortal\KanbanHiringPortalApplication.class
